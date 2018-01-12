@@ -1,0 +1,6 @@
+framework module SLStart {
+  umbrella header "SLStart-umbrella.h"
+
+  export *
+  module * { export * }
+}
