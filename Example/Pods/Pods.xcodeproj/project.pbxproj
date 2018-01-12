@@ -529,7 +529,7 @@
 		926CAE26F98C0649CE0C0FD525B33E36 /* SLStart */ = {
 			isa = PBXGroup;
 			children = (
-				BBB97B5F200939B800BE4F38 /* LoginDelegate.swift */,
+				BBB97B6120093D8200BE4F38 /* Delegate */,
 				6EE6CC9B795A41D0F27844E17CC581EC /* Support Files */,
 			);
 			name = SLStart;
@@ -546,6 +546,14 @@
 				2CB11E4BBBF38DE42C477FFE74E1ADEB /* SLStart.framework */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		BBB97B6120093D8200BE4F38 /* Delegate */ = {
+			isa = PBXGroup;
+			children = (
+				BBB97B5F200939B800BE4F38 /* LoginDelegate.swift */,
+			);
+			path = Delegate;
 			sourceTree = "<group>";
 		};
 		C2C6B99477D57F64EA6A2B54A2787F68 /* Development Pods */ = {
