@@ -1,6 +1,6 @@
 # SLStart
 
-[![CI Status](http://img.shields.io/travis/concepttoapp/SLStart.svg?style=flat)](https://travis-ci.org/concepttoapp/SLStart)
+[![CI Status](http://img.shields.io/travis/sluitel/SLStart.svg?style=flat)](https://travis-ci.org/sluitel/SLStart)
 [![Version](https://img.shields.io/cocoapods/v/SLStart.svg?style=flat)](http://cocoapods.org/pods/SLStart)
 [![License](https://img.shields.io/cocoapods/l/SLStart.svg?style=flat)](http://cocoapods.org/pods/SLStart)
 [![Platform](https://img.shields.io/cocoapods/p/SLStart.svg?style=flat)](http://cocoapods.org/pods/SLStart)
