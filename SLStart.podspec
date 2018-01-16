@@ -40,6 +40,6 @@ s.source_files = 'SLStart/Classes/**/*'
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-    s.frameworks = 'UIKit'
+#s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
