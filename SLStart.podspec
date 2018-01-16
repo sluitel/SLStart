@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SLStart'
-  s.version          = '0.5.0'
+  s.version          = '0.6.0'
   s.summary          = 'I am just testing it now'
 
 # This description is used to generate tags and improve search results.
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+TODO: Add long description of the pod here. This is a long description.
                        DESC
 
   s.homepage         = 'https://github.com/sluitel/SLStart'
@@ -40,6 +40,6 @@ s.source_files = 'SLStart/Classes/**/*'
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-#s.frameworks = 'UIKit'
+    #s.frameworks = 'UIKit'
   # s.dependency 'AFNetworking', '~> 2.3'
 end
