@@ -26,6 +26,9 @@ TODO: Add long description of the pod here.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Subash Luitel' => 'luitel@me.com' }
   s.source           = { :git => 'https://github.com/sluitel/SLStart.git',:branch => 'master', :tag => s.version.to_s }
+    s.frameworks = 'Stripe'
+    s.xcconfig = { 'FRAMEWORK_SEARCH_PATHS' => '/Applications/Xcode.app/Contents/Developer/Library/Frameworks' }
+    s.vendored_frameworks = 'Stripe.framework'
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

@@ -22,7 +22,7 @@ pod 'SLStart'
 
 ## Author
 
-concepttoapp, luitel@me.com
+Subash Luitel, luitel@me.com
 
 ## License
 
